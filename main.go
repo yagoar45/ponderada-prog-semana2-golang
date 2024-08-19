@@ -1,4 +1,5 @@
-package main
+// main.go
+package db
 
 import (
 	"os"
